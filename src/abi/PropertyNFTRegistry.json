@@ -1,0 +1,8 @@
+[
+  {"inputs":[],"stateMutability":"nonpayable","type":"constructor"},
+  {"anonymous":false,"inputs":[{"indexed":true,"internalType":"uint256","name":"tokenId","type":"uint256"},{"indexed":true,"internalType":"bytes32","name":"propertyIdHash","type":"bytes32"},{"indexed":true,"internalType":"address","name":"to","type":"address"},{"indexed":false,"internalType":"string","name":"tokenURI","type":"string"}],"name":"PropertyMinted","type":"event"},
+  {"inputs":[{"internalType":"address","name":"to","type":"address"},{"internalType":"string","name":"propertyId","type":"string"},{"internalType":"string","name":"tokenURI","type":"string"}],"name":"mintProperty","outputs":[{"internalType":"uint256","name":"tokenId","type":"uint256"}],"stateMutability":"nonpayable","type":"function"},
+  {"inputs":[{"internalType":"address[]","name":"to","type":"address[]"},{"internalType":"string[]","name":"propertyIds","type":"string[]"},{"internalType":"string[]","name":"tokenURIs","type":"string[]"}],"name":"mintBatch","outputs":[{"internalType":"uint256[]","name":"tokenIds","type":"uint256[]"}],"stateMutability":"nonpayable","type":"function"}
+]
+
+
