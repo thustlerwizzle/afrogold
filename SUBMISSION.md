@@ -10,10 +10,9 @@ This document follows the Hedera Africa Hackathon 2025 guidelines. AfroGold make
 - **Contact**: team@afrogold.xyz
 
 ### Team (each member registers individually)
-- Team Lead / Architect (35%) — product architecture, security, RWA model
-- Solidity Engineer (30%) — HTS/HCS contracts, governance, escrow
-- Frontend/UX (25%) — React/TS, brand, supplier UX
-- Business Strategist (10%) — partnerships, compliance, market fit
+--Trilochana Chary Solidity Engineer (50%) — HTS/HCS contracts, governance, escrow
+-  Takunda Sadomba - Frontend/UX (50%) — React/TS, brand, supplier UX
+
 
 ## Problem Statement
 Massive capital avoids African infrastructure and real estate due to unverifiable milestones, weak supplier vetting, and opaque reporting. The result is capital flight and project failure.
